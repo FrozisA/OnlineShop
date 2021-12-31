@@ -1,4 +1,4 @@
-CPE231 Database Systems - Group1 OnlineShop
+CPE231 Database Systems - Online shop web application
 
 วิธีการสร้างdatabase
 เเบบที่1
